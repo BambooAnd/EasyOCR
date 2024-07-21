@@ -1,0 +1,22 @@
+filename;words
+3-1.png;[-] RemoteOperations failed: DCERPC Runtime Error: code: 0x5 - rpc_s_access_denied
+3-2.png;[*] Dumping Domain Credentials (domain\uid:rid:lmhash:nthash)
+3-11.png;pt.local\Anton:1110:aad3b435b51404eeaad3b435b51404ee:26315a1202e89184e083f804fb569941:::
+3-12.png;pt.local\Igor:1111:aad3b435b51404eeaad3b435b51404ee:72599e555065d7eb37f0e332a4a4ee0a:::
+3-13.png;pt.local\Vasya:1112:aad3b435b51404eeaad3b435b51404ee:24219f38a1ed598301705dd507870c06:::
+3-14.png;pt.local\Pavel:1113:aad3b435b51404eeaad3b435b51404ee:120943a1101014ab6c2c035b079f6e6d:::
+3-15.png;pt.local\Boris:1114:aad3b435b51404eeaad3b435b51404ee:67ab878aeb5fd1f866c020dda1ff7acf:::
+3-16.png;pt.local\Lida:1115:aad3b435b51404eeaad3b435b51404ee:d7674f15fa8ddeb8400a8ff898c9aa14:::
+3-17.png;pt.local\Sveta1116:aad3b435b51404eeaad3b435b51404ee:772de635d207ecf3bca98aa9b3e5c7d8:::
+3-18.png;pt.local\Nata:1117:aad3b435b51404eeaad3b435b51404ee:0eeae5bd9e881077e7bb5ce90f9637a4:::
+3-19.png;pt.local\Yana:1118:aad3b435b51404eeaad3b435b51404ee:2099abf33c5f82ea7e40a8aa8718ea7c:::
+3-20.png;pt.local\Maria:1119:aad3b435b51404eeaad3b435b51404ee:56f11974ee5d612f8caa7f917edce874:::
+3-31.png;krbtgt:aes128-cts-hmac-sha1-96:aa48485afe074726a0c2738cbea57369
+3-32.png;krbtgt:des-cbc-md5:8aa2b0d0298962d0
+3-33.png;pt.local\Alex:aes256-cts-hmac-sha1-96:b647cdaedaec2abc4298dcda49c9f261dca0dd06d27ff163a0b37a7e6ea6d73d
+3-34.png;pt.local\Alex:aes128-cts-hmac-sha1-96:60f90bc6470fd976d9df0ad823fce1aa
+3-35.png;pt.local\Alex:des-cbc-md5:f2803bf457fd98b0
+3-36.png;pt.local\Gleb:aes256-cts-hmac-sha1-96:fdd0953ce546b3aaa901b3521052c31bc87ceaaf08a3fa02e84f114d332b98bf
+3-37.png;pt.local\Gleb:aes128-cts-hmac-sha1-96:5aa6ad75cedf4a1d5a46e00683546a85
+3-38.png;pt.local\Gleb:des-cbc-md5:e9088fdfb345041c
+3-39.png;pt.local\Petr:aes256-cts-hmac-sha1-96:a37760683390451fc39d42565b66bf5319e81754fa684b6e24aaa11b2bedd1cd
